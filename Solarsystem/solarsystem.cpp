@@ -38,6 +38,7 @@ void RenderScene(void) {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glClearColor(0.0, 0.0, 0.0, 0.0); // Set display-window color to black.
 
+	//git test
 	earthRotation += earth_rotation_speed;
 	moonRotation += moon_rotation_speed;
 
